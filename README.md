@@ -4,4 +4,4 @@
   
   I hope this overarching project will give you a glimpse into my philosophies and what I value most in the world of cybersecurity; without compromising the safety of traversing the world-wide-web.
 
-## *[[ Topic Selection]]
+## *[[ Topic Selection ]]
