@@ -5,3 +5,4 @@
   I hope this overarching project will give you a glimpse into my philosophies and what I value most in the world of cybersecurity; without compromising the safety of traversing the world-wide-web.
 
 # [Topic Ideas](https://github.com/MicahKezar/CCC-410/blob/main/410-topics.md) 
+> Using the link above, you can access the full list of the topic ideas, research, analysis, and general plans I have for my capstone project.
