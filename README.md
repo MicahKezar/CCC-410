@@ -6,3 +6,5 @@
 
 # [Topic Ideas](https://github.com/MicahKezar/CCC-410/blob/main/410-topics.md) 
 > Using the link above, you can access the full list of the topic ideas, research, analysis, and general plans I have for my capstone project.
+
+* [SSMS](https://github.com/MicahKezar/CCC-410/blob/main/SSMS/SSMS.md)
