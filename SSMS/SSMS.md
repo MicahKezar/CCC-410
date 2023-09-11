@@ -3,8 +3,8 @@ SSMS (Secure Short Message Service) is a custom protocol based off of the widely
 
 ## How Standard SMS Works
 As of now, SMS works in 5 simple steps.
-* First: You send a text message.
-* Second: That message gets transmitted from your device to your nearest Cell Tower.
-* Third: That Tower sends the message to an SMS Center (SMSC). These Centers are provided by your Cellular Provider (Verizon, AT&T, etc.)
-* Fourth: The SMSC sends your message to a cell tower near the recipient.
-* Fifth: That tower sends the message to the recipient. 
+* Step 1: You send a text message.
+* Step 2: That message gets transmitted from your device to your nearest Cell Tower.
+* Step 3: That Tower sends the message to an SMS Center (SMSC). These Centers are provided by your Cellular Provider (Verizon, AT&T, etc.)
+* Step 4: The SMSC sends your message to a cell tower near the recipient.
+* Step 5: That tower sends the message to the recipient. 
