@@ -6,3 +6,5 @@
 My goal is to provide an additional layer of security to the pre-existing SMS protocol. I am very interesting in pursuing this topic as SMS is very unsecure, and is widely used across the globe. Text messages are transfered via plaintext, meaning anyone with the capability of listening in on cell towers can have access to a plethora of private information. I plan on using the SMS infrastracture to add on additional encryption to ensure the safety and privacy of everyones messages.
 
 [DEXploit](https://github.com/MicahKezar/CCC-410/blob/main/DExploit/DExploit.md) Is a service that will keep note of your hardware and software applications and report to you whenever there are new CVE Exploits based off of those parameters. 
+
+My goal is to deliver an experience where one can input their Computer Parts (ex: GPU, CPU, Motherboard, etc.), applications being used (ex: Microsoft Outlook, Adobe Photoshop, etc.) and deliver them a real-time experience to notify them whenever one of their hardware or software applications are vulnerable to new attacks. 
