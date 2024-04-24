@@ -29,15 +29,15 @@ Radio Frequency Security is a five week one credit section of SEC300 that touche
 
 ## Learning Objectives
 Upon completion of the course, students will be able to:
-● Understand the basic properties of radio frequency
-● Learn about how common radio frequencies are used in our daily lives
-● Grasp the legal implications for improper use radio frequencies
-● Discover governing bodies that are associated with the legality of radio frequencies
-● Perform case studies on real life examples of times radio frequencies were used with malicious intent
-● Relate radio frequency understanding to cybersecurity principles
-● Gain hands on experience practicing safe radio transmission and reception
-● Gather awareness of the legal responsibilities surrounding transmission and reception
-● Build RFID/NFC tags and understand the potential dangers associated with contactless communication
+● Understand the basic properties of radio frequency  
+● Learn about how common radio frequencies are used in our daily lives  
+● Grasp the legal implications for improper use radio frequencies  
+● Discover governing bodies that are associated with the legality of radio frequencies  
+● Perform case studies on real life examples of times radio frequencies were used with malicious intent  
+● Relate radio frequency understanding to cybersecurity principles  
+● Gain hands on experience practicing safe radio transmission and reception   
+● Gather awareness of the legal responsibilities surrounding transmission and reception  
+● Build RFID/NFC tags and understand the potential dangers associated with contactless communication  
 
 ## Teaching Methodology
 
