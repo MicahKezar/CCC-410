@@ -10,6 +10,8 @@
 
 ## [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
 
+# Syllabus
+
 ## Class Day/Time
 Tuesdays 4:00pm - 5:15pm
 Location: Joyce 310
