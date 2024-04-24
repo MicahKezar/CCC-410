@@ -4,7 +4,7 @@
 Tuesdays 4:00pm - 5:15pm
 Location: Joyce 310
 
-## Your Instructor
+## Your Instructors
 Instructors: Cole Davis-Brand, Micah Kezar, Adam Goldstein
 
 ## Course Description
