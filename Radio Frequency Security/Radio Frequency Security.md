@@ -10,7 +10,7 @@
 
 ## [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
 
-# Syllabus
+# [Syllabus](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Radio%20Frequency%20Security%20_%20Syllabus-2.pdf)
 
 ## Class Day/Time
 Tuesdays 4:00pm - 5:15pm
