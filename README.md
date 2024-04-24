@@ -7,5 +7,5 @@
 # [Topic Ideas](https://github.com/MicahKezar/CCC-410/blob/main/410-topics.md) 
 > Using the link above, you can access the full list of the topic ideas, research, analysis, and general plans I have for my capstone project.
 
+* [Radio Frequency Security](https://github.com/MicahKezar/CCC-410/wiki/Design-Project-2)
 * [SSMS](https://github.com/MicahKezar/CCC-410/blob/main/SSMS/SSMS.md)
-* [Radio Frequency Security - 1 Credit Course](https://github.com/MicahKezar/CCC-410/wiki/Design-Project-2)
