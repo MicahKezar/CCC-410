@@ -27,14 +27,92 @@ Module 1 Assignments:
 ## [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/5dc4e0b1-2851-49fc-94ef-d568206d9988)
 
+This week we can focus on a lot of the Legality surrounding Information Transmission and Reception, Radio Frequency Laws, and the Fourth Amendment. There are various legal standards that you must be compliant with. Examples such as:
+- The FCC
+- The FTC
+- The CTIA 
+- The TCPA
+  
+Lastly, we can use examples of cases that relate to the Legal issues with Cellular Transmission, such as the case of Edward Snowden.  
+  
+Learning Outcomes:  
+- Understand legal implications for improper use of RF
+- Discover governing bodies associated with RF
+- Research one example where RF was used illegally
+  
+Module 2 Assignments:  
+- Discussion post, research one example of a case where RF was used illegally. Write one paragraph about the case and what happened, write another paragraph about the illegal use of RF and what laws were broken
+- Brief quiz on different legal standards and laws relating to RF
+
 ## [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/d6912250-cb98-4fbe-add8-8b7543e2f7fc)
+
+This week will focus on the specific protocols used in cellular network architectures. We will also look into the evolution of cellular data protocols from 1G to 5G. Then we will look at history of attacks related to SMS and cellular protocols. How have text messaging, cellular protocols, and RF been involved in cyber attacks. We will look into how certain types of attacks work, and ways to protect against them.  
+Cellphone Network Examples:  
+- GSM 
+- CDMA 
+- LTE 
+- 5G
+  
+Attack/Vulnerabilities:  
+- SMS Phishing
+- SS7 Vulnerabilities
+- SIM Swapping
+- Network Jamming
+- Unencrypted SMS eavesdropping
+
+We will also look how these protocols directly interact with the RF principles.  
+
+Module 3 Learning Outcomes:  
+- Relate RF understanding and basics to cybersecurity principles
+- Understand how RF contributes to cellular based attacks  
+Module 3 Assignments:  
+- Quiz on differences in cellular protocols  
+- Research project, pick an attack/vulnerability and write a 1 page report on how it works, an example of when it was used in the wild, ways to protect against it
 
 ## [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/0fc4b5a7-584f-40ff-bd9a-05351116a4c8)
 
+This week we will focus specifically on Radio Transmission and Receiving. How does radio transmission work? How do you receive these signals? What is the legal frequency range anybody can broadcast in? We will discuss the legal ranges people can transmit, as well as people with HAM licenses can transmit. We will also discuss the frequency ranges that are strictly off limits. 
+
+Hardware we currently have:  
+- LimeSDR Mini
+
+Hardware ordered for class:
+
+- 12x [RTL-SDR w/ Antenna Combo](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0BMKB3L47/ref=sr_1_3?keywords=RTL%2B-SDR%2B(Dongle)&qid=1701298883&sr=8-3&th=1)
+
+
+Learning Outcomes:  
+- Practicing Safe Radio Transmission
+- Learning how to receive Radio frequencies
+- Understanding the legal responsibilities that surround RX and TX
+
+Module 4 Assignments:  
+We will use in-class tools such as the RTL-SDR to demonstrate how one can receive radio frequencies. 
+  
 ## [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/19edb38d-2f3f-4ec1-a876-869619804b8c)
+
+This week we can talk about different RFID protocols. We will look into how the RF in RFID/NFC works, and the frequency(s) that RFID/NFC use. It will also be interesting to look into the different RFID/NFC protocols and the way that they transfer data and store data. Good opportunity to do a demo with RFID/NFC cloning (would need permission from the school).   
+  
+Here are some RFID models that we could dive deeper into:  
+- HID H10301
+- HIDPRox
+  
+Hardware we currently have:
+- Blank writeable/readable RFID cards
+- Blank writeable/readable NFC 215 tags
+- Proxmark3
+- Flipper Zero
+
+Learning Outcomes:  
+- Writing and reading RFID/NFC
+- The dangers of RFID/NFC and common threats associated
+  
+Module 5 Assignments:
+- Hands on lab with RFID/NFC, write to an NFC tag and receive another students content
+- Brief open answer quiz, one paragraph about the way RFID/NFC can be used maliciously, another paragraph about ways to protect against it
 
 # [Syllabus](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Radio%20Frequency%20Security%20_%20Syllabus-2.pdf)
 
