@@ -8,4 +8,4 @@
 > Using the link above, you can access the full list of the topic ideas, research, analysis, and general plans I have for my capstone project.
 
 * [SSMS](https://github.com/MicahKezar/CCC-410/blob/main/SSMS/SSMS.md)
-* [Cellular Security](https://github.com/MicahKezar/CCC-410/blob/main/Cellular%20Security/Cellular%20Security.md)
+* [Radio Frequency Security - 1 Credit Course](https://github.com/MicahKezar/CCC-410/wiki/Design-Project-2)
