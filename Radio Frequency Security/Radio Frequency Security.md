@@ -21,9 +21,10 @@ Learning Outcomes:
 Lecture on above content, talking specifically about the basics of RF: how it works, images showing how it works, what frequencies are used for different devices (shown above).
 
 Module 1 Assignments:
-- Brief quiz on the RF basics
-- Discussion post, find 1 RF device in the wild and take a photo of it and write about what it is, what it uses RF for, and how it works
-- WiFi Heatmap Lab
+- [Lab 1-1 Heatmap Site Survey](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/Lab%201-1%20Heatmap%20Site%20Survey.pdf)
+- Discussion post: [RF Device in the Wild](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/RF%20Device%20in%20the%20Wild.png)
+- [Useful Documentation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/Useful%20Documentation.pdf)
+- [Week 1 Slides](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/Week%201%20Slides_%20RF%20Basics.pptx)
 
 ## [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/5dc4e0b1-2851-49fc-94ef-d568206d9988)
@@ -42,8 +43,10 @@ Learning Outcomes:
 - Research one example where RF was used illegally
   
 Module 2 Assignments:  
-- Discussion post, research one example of a case where RF was used illegally. Write one paragraph about the case and what happened, write another paragraph about the illegal use of RF and what laws were broken
-- Brief quiz on different legal standards and laws relating to RF
+- Discussion post: [Illegal RF Use Case Study](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Illegal%20RF%20Use%20Case%20Study.png)
+- [Quiz 2-1: Wireless Security](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Quiz%202-1%20Wireless%20Security.png)
+- [Lab 2-1: WiGLE](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Week%202%20Lab%20and%20In-Class%20Demo_%20WiGLE.pdf)
+- 
 
 ## [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/d6912250-cb98-4fbe-add8-8b7543e2f7fc)
