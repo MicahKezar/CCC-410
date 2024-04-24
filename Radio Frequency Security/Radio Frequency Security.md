@@ -1,14 +1,14 @@
 # SEC-300-71: Topics in Security - Spring 2024
 
-# [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
+## [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
 
-# [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
+## [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
 
-# [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
+## [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
 
-# [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
+## [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
 
-# [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
+## [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
 
 ## Class Day/Time
 Tuesdays 4:00pm - 5:15pm
