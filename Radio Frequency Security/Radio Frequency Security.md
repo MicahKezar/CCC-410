@@ -1,14 +1,19 @@
 # SEC-300-71: Topics in Security - Spring 2024
 
 ## [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
+![image](https://github.com/MicahKezar/CCC-410/assets/71364527/a6d4f060-399b-4102-b39a-2e8a456c90bc)
 
 ## [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
+![image](https://github.com/MicahKezar/CCC-410/assets/71364527/5dc4e0b1-2851-49fc-94ef-d568206d9988)
 
 ## [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
+![image](https://github.com/MicahKezar/CCC-410/assets/71364527/d6912250-cb98-4fbe-add8-8b7543e2f7fc)
 
 ## [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
+![image](https://github.com/MicahKezar/CCC-410/assets/71364527/0fc4b5a7-584f-40ff-bd9a-05351116a4c8)
 
 ## [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
+![image](https://github.com/MicahKezar/CCC-410/assets/71364527/19edb38d-2f3f-4ec1-a876-869619804b8c)
 
 # [Syllabus](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Radio%20Frequency%20Security%20_%20Syllabus-2.pdf)
 
