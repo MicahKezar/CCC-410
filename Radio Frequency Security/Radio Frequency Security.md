@@ -22,7 +22,7 @@ Lecture on above content, talking specifically about the basics of RF: how it wo
 
 Module 1 Assignments:
 - [Lab 1-1 Heatmap Site Survey](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/Lab%201-1%20Heatmap%20Site%20Survey.pdf)
-- Discussion post: [RF Device in the Wild](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/RF%20Device%20in%20the%20Wild.png)
+- [Discussion post: RF Device in the Wild](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/RF%20Device%20in%20the%20Wild.png)
 - [Useful Documentation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/Useful%20Documentation.pdf)
 - [Week 1 Slides](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%201/Week%201%20Slides_%20RF%20Basics.pptx)
 
@@ -43,10 +43,11 @@ Learning Outcomes:
 - Research one example where RF was used illegally
   
 Module 2 Assignments:  
-- Discussion post: [Illegal RF Use Case Study](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Illegal%20RF%20Use%20Case%20Study.png)
+- [Discussion post: Illegal RF Use Case Study](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Illegal%20RF%20Use%20Case%20Study.png)
 - [Quiz 2-1: Wireless Security](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Quiz%202-1%20Wireless%20Security.png)
 - [Lab 2-1: WiGLE](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Week%202%20Lab%20and%20In-Class%20Demo_%20WiGLE.pdf)
-- 
+- [Useful Documentation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Useful%20Documentation.pdf)
+- [Week 2 Slides](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%202/Week%202%20Slides_%20Legal%20and%20Ethical%20Aspects.pptx)
 
 ## [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/d6912250-cb98-4fbe-add8-8b7543e2f7fc)
@@ -69,10 +70,13 @@ We will also look how these protocols directly interact with the RF principles.
 
 Module 3 Learning Outcomes:  
 - Relate RF understanding and basics to cybersecurity principles
-- Understand how RF contributes to cellular based attacks  
+- Understand how RF contributes to cellular based attacks
+  
 Module 3 Assignments:  
-- Quiz on differences in cellular protocols  
-- Research project, pick an attack/vulnerability and write a 1 page report on how it works, an example of when it was used in the wild, ways to protect against it
+- [Cellular Based Vulnerability Research](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%203/Cellular%20Based%20Vulnerability%20Research.png)
+- [Lab 3-1: Cell Tower Investigation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%203/Week%203%20Lab_%20Cell%20Tower%20Investigation.pdf)
+- [Useful Documentation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%203/Useful%20Documentation.pdf)
+- [Week 3 Slides](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%203/Week%203%20Slides_%20Cellular%20Network%20Protocols%20%26%20Vulnerabilities.pptx)
 
 ## [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/0fc4b5a7-584f-40ff-bd9a-05351116a4c8)
@@ -93,7 +97,11 @@ Learning Outcomes:
 - Understanding the legal responsibilities that surround RX and TX
 
 Module 4 Assignments:  
-We will use in-class tools such as the RTL-SDR to demonstrate how one can receive radio frequencies. 
+- [Lab 4-1: Receiving Radio](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%204/Lab%204-1_%20Receiving%20Radio.pdf)
+- [Quiz 4-1: Receiving Radio Terminology](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%204/Quiz%204-1%20Receiving%20Radio%20Terminology.png)
+- [Discussion post: Receiving Radio Findings](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%204/Receiving%20Radio%20Findings.png)
+- [Useful Documentation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%204/Useful%20Documentation.pdf)
+- [Week 4 Slides](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%204/Week%204%20Slides_%20RX%20and%20TX.pptx)
   
 ## [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/19edb38d-2f3f-4ec1-a876-869619804b8c)
@@ -115,8 +123,10 @@ Learning Outcomes:
 - The dangers of RFID/NFC and common threats associated
   
 Module 5 Assignments:
-- Hands on lab with RFID/NFC, write to an NFC tag and receive another students content
-- Brief open answer quiz, one paragraph about the way RFID/NFC can be used maliciously, another paragraph about ways to protect against it
+- [Lab 5-1: Making NFC Tags](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%205/Lab%205-1%20Making%20NFC%20Tags.pdf)
+- [DIscussion post: Malicious Use of NFC Research](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%205/Malicious%20Use%20of%20NFC%20Research.png)
+- [Useful Documentation](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%205/Useful%20Documentation.pdf)
+- [Week 5 Slides](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Week%205/Week%205%20Slides%20-%20RFID_NFC.pptx)
 
 # [Syllabus](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Radio%20Frequency%20Security%20_%20Syllabus-2.pdf)
 
