@@ -59,10 +59,10 @@ As instructors, one of our responsibilities is to help create a safe learning en
 
 # [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
 
-# Week 2: Legal and Ethical Aspects of RF
+# [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
 
-# Week 3: Cellular Network Protocols & Vulnerabilities
+# [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
 
-# Week 4: Receiving Radio
+# [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
 
-# Week 5: RFID / NFC
+# [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
