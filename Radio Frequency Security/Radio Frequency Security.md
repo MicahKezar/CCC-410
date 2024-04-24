@@ -1,5 +1,15 @@
 # SEC-300-71: Topics in Security - Spring 2024
 
+# [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
+
+# [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
+
+# [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
+
+# [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
+
+# [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
+
 ## Class Day/Time
 Tuesdays 4:00pm - 5:15pm
 Location: Joyce 310
@@ -56,13 +66,3 @@ This class is committed to maintaining a respectful and inclusive learning envir
 
 ### Confidentiality and Mandatory Reporting
 As instructors, one of our responsibilities is to help create a safe learning environment on our campus. We also have a mandatory reporting responsibility related to our role as faculty members. It is our goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. If you come to us with non-course-related concerns, we will seek to keep the information you share private to the greatest extent possible. However, please understand that we are legally required to share with designated Champlain College offices information regarding sexual misconduct such as sexual assault, sexual exploitation, and partner or relationship violence.
-
-# [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
-
-# [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
-
-# [Week 3: Cellular Network Protocols & Vulnerabilities](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%203)
-
-# [Week 4: Receiving Radio](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%204)
-
-# [Week 5: RFID / NFC](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%205)
