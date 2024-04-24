@@ -3,6 +3,27 @@
 ## [Week 1: RF Basics](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%201)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/a6d4f060-399b-4102-b39a-2e8a456c90bc)
 
+This week will focus on the basic understanding of RF principles, including frequency, wavelength, etc. This will cover the basics on how RF signals are transmitted and received to transfer data. Which frequency ranges are used for what?
+- Police and emergency response frequencies
+- Medical device frequencies
+- Wi-Fi (802.11) frequencies
+- Bluetooth
+- Cellular
+- Microwaves and other household items
+- Cabling and how physical cables use RF
+- Radio (AM and FM)
+  
+Learning Outcomes:  
+- Basic properties of RF
+- How common RF is used in our world
+  
+Lecture on above content, talking specifically about the basics of RF: how it works, images showing how it works, what frequencies are used for different devices (shown above).
+
+Module 1 Assignments:
+- Brief quiz on the RF basics
+- Discussion post, find 1 RF device in the wild and take a photo of it and write about what it is, what it uses RF for, and how it works
+- WiFi Heatmap Lab
+
 ## [Week 2: Legal and Ethical Aspects of RF](https://github.com/MicahKezar/CCC-410/tree/main/Radio%20Frequency%20Security/Week%202)
 ![image](https://github.com/MicahKezar/CCC-410/assets/71364527/5dc4e0b1-2851-49fc-94ef-d568206d9988)
 
