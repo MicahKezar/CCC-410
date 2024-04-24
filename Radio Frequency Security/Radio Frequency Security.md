@@ -28,7 +28,7 @@ Instructors: Cole Davis-Brand, Micah Kezar, Adam Goldstein
 Radio Frequency Security is a five week one credit section of SEC300 that touches on radio frequencies and associated security protocols and principles. This course will dive into the ways radio frequencies affect our daily lives and how common protocols like Wi-Fi, Bluetooth, Cellular, Radio function on a detailed level. Additional emphasis will be put on the security methods that are implemented in different protocols. Students will be able to gain hands-on experience working with RF hardware as well as learning the legal and ethical implications related to RF security.
 
 ## Learning Objectives
-Upon completion of the course, students will be able to:
+Upon completion of the course, students will be able to:  
 ● Understand the basic properties of radio frequency  
 ● Learn about how common radio frequencies are used in our daily lives  
 ● Grasp the legal implications for improper use radio frequencies  
