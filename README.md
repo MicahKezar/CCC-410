@@ -7,6 +7,8 @@
 # Final Project: [SEC-300-71: Topics in Security](https://github.com/MicahKezar/CCC-410/blob/main/Radio%20Frequency%20Security/Radio%20Frequency%20Security.md)
 Radio Frequency Security is a five week one credit section of SEC300 that touches on radio frequencies and associated security protocols and principles. This course will dive into the ways radio frequencies affect our daily lives and how common protocols like Wi-Fi, Bluetooth, Cellular, Radio function on a detailed level. Additional emphasis will be put on the security methods that are implemented in different protocols. Students will be able to gain hands-on experience working with RF hardware as well as learning the legal and ethical implications related to RF security.
 
+This project was developed by Micah Kezar and Cole Davis-Brand
+
 # [Topic Ideas](https://github.com/MicahKezar/CCC-410/blob/main/410-topics.md) 
 > Using the link above, you can access the full list of the topic ideas, research, analysis, and general plans I have for my capstone project.
 
